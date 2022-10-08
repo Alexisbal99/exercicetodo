@@ -1,0 +1,13 @@
+"Deuxième tache à faire","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-10-13,priority-normal
+"Troisième tache à faire","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-10-1,priority-normal
+"Tache de basse priorité","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-10-1,priority-low
+"Tache avec une priorité haute","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-10-1,priority-high
+"Tache avec un délai dépassé","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-1-1,priority-normal
+"Nouvelle tache à faire","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",2019-7-12,priority-normal
+hello,"Pas de description",2022-1-1,priority-normal
+yhhyh,"Pas de description","<br />
+<b>Warning</b>:  Undefined variable $currentYear in <b>C:\Users\Utilisateur\Desktop\exercice_todo\index.php</b> on line <b>70</b><br />
+0-1-1",priority-normal
+rfrf,frfrf,"<br />
+<b>Warning</b>:  Undefined variable $currentYear in <b>C:\Users\Utilisateur\Desktop\exercice_todo\index.php</b> on line <b>57</b><br />
+3-4-4",priority-normal
